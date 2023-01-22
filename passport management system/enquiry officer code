@@ -1,0 +1,62 @@
+
+
+/**
+ * Class enquiry_officer
+ */
+public class enquiry_officer {
+
+  //
+  // Fields
+  //
+
+  public void verification_of_passport;
+  
+  //
+  // Constructors
+  //
+  public enquiry_officer () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  /**
+   * Set the value of verification_of_passport
+   * @param newVar the new value of verification_of_passport
+   */
+  public void setVerification_of_passport (void newVar) {
+    verification_of_passport = newVar;
+  }
+
+  /**
+   * Get the value of verification_of_passport
+   * @return the value of verification_of_passport
+   */
+  public void getVerification_of_passport () {
+    return verification_of_passport;
+  }
+
+  //
+  // Other methods
+  //
+
+  /**
+   */
+  public void issue_of_passport()
+  {
+  }
+
+
+  /**
+   */
+  public void renewal_of_passport()
+  {
+  }
+
+
+}
