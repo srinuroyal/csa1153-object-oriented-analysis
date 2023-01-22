@@ -1,0 +1,27 @@
+import java.util.Vector;
+
+public class user {
+
+  public String login;
+
+  public String name;
+
+  public Integer phn_no;
+
+  public Integer address;
+
+    public Vector  mycomputer system;
+
+  public void login() {
+  }
+
+  public void logout() {
+  }
+
+  public void filldetails() {
+  }
+
+  private void procced_booking() {
+  }
+
+}
