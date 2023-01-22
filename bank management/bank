@@ -1,0 +1,28 @@
+import java.util.Vector;
+
+public class bank {
+
+  public Integer custdetails;
+
+  public Integer loandetails;
+
+  public Integer transno;
+
+  public Integer transdate;
+
+  public Integer transtime;
+
+    public Vector  mycustomer;
+    public Vector  myaccount;
+
+  public void givenloan() {
+  }
+
+  public void updatedetails() {
+  }
+
+  public void collectmoney() {
+  }
+
+  public void transaction() {
+  }
