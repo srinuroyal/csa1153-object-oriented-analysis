@@ -1,0 +1,17 @@
+import java.util.Vector;
+
+public class employee1 {
+
+  public Integer employee_details;
+
+  public Integer salary;
+
+    public Vector  mycenter management system;
+
+  public void leave_taken() {
+  }
+
+  public void employee1() {
+  }
+
+}
