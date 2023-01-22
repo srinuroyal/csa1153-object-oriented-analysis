@@ -1,0 +1,18 @@
+import java.util.Vector;
+
+public class hr1 {
+
+  public Integer check_details;
+
+    public Vector  mycenter management system;
+
+  public void loss_of_pay() {
+  }
+
+  public void tax() {
+  }
+
+  public void hr1() {
+  }
+
+}
