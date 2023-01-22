@@ -1,0 +1,20 @@
+import java.util.Vector;
+
+public class management system {
+
+  public Integer verification;
+
+  public Integer login_verification;
+
+    public Vector  mycomputer system;
+
+  public void help_service() {
+  }
+
+  public void check_availability() {
+  }
+
+  public void generate_bill() {
+  }
+
+}
