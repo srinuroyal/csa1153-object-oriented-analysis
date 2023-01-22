@@ -1,0 +1,18 @@
+package stud;
+
+import Integer;
+import java.util.Vector;
+
+public class eduofficer {
+
+  private Integer details;
+
+    public Vector  mycentral education systm;
+
+  private void hallticket() {
+  }
+
+  private void proof() {
+  }
+
+}
