@@ -1,0 +1,17 @@
+package stud;
+
+import Integer;
+import java.util.Vector;
+
+public class stud {
+
+  private Integer details;
+
+  private Integer photo;
+
+    public Vector  mycentral education systm;
+
+  public void newOperation() {
+  }
+
+}
