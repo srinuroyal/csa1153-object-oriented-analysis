@@ -1,0 +1,19 @@
+import java.util.Vector;
+
+public class passenger {
+
+  public Integer passengername;
+
+  public Integer passengerage;
+
+  public Integer trainnumber;
+
+    public Vector  mycentral management;
+
+  public void login() {
+  }
+
+  public void passenger1() {
+  }
+
+}
