@@ -1,0 +1,23 @@
+public class central management {
+
+  public Integer trainname;
+
+  public Integer passengername;
+
+    
+  public void reservation() {
+  }
+
+  public void cancellation() {
+  }
+
+  public void status() {
+  }
+
+  public void login() {
+  }
+
+  private void management() {
+  }
+
+}
