@@ -1,0 +1,25 @@
+public class center management system {
+
+  public employee_name;
+
+  public emp_number;
+
+  public details;
+
+    
+  public void leavetaken() {
+  }
+
+  public void tax() {
+  }
+
+  public void loan() {
+  }
+
+  public void salary() {
+  }
+
+  public void central_management() {
+  }
+
+}
