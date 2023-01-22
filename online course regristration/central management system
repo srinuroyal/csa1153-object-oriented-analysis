@@ -1,0 +1,18 @@
+package stud.central education systm;
+
+import Integer;
+
+public class central management system {
+
+  private Integer details;
+
+  private Integer details;
+
+    
+  public void verify() {
+  }
+
+  public void enroll() {
+  }
+
+}
