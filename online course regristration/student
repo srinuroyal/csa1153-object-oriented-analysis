@@ -1,0 +1,25 @@
+package stud.central education systm;
+
+import Integer;
+import java.util.Vector;
+
+public class student {
+
+  public Integer newAttr;
+
+  public Integer marks;
+
+  public Integer register;
+
+    public Vector  mycentral management system;
+
+  public void browse() {
+  }
+
+  public void select() {
+  }
+
+  public void register() {
+  }
+
+}
