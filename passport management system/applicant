@@ -1,0 +1,79 @@
+
+
+/**
+ * Class applicant
+ */
+public class applicant {
+
+  //
+  // Fields
+  //
+
+  public void applicant;
+  public void applicant_details;
+  
+  //
+  // Constructors
+  //
+  public applicant () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  /**
+   * Set the value of applicant
+   * @param newVar the new value of applicant
+   */
+  public void setApplicant (void newVar) {
+    applicant = newVar;
+  }
+
+  /**
+   * Get the value of applicant
+   * @return the value of applicant
+   */
+  public void getApplicant () {
+    return applicant;
+  }
+
+  /**
+   * Set the value of applicant_details
+   * @param newVar the new value of applicant_details
+   */
+  public void setApplicant_details (void newVar) {
+    applicant_details = newVar;
+  }
+
+  /**
+   * Get the value of applicant_details
+   * @return the value of applicant_details
+   */
+  public void getApplicant_details () {
+    return applicant_details;
+  }
+
+  //
+  // Other methods
+  //
+
+  /**
+   */
+  public void apply_passport_()
+  {
+  }
+
+
+  /**
+   */
+  public void submission()
+  {
+  }
+
+
+}
