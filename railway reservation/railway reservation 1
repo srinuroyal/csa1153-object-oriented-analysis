@@ -1,0 +1,25 @@
+import java.util.Vector;
+
+public class railwayreservationsystem1 {
+
+  public Integer trainnumer;
+
+  public Integer trainname;
+
+  public Integer passengername;
+
+    public Vector  mycentral management;
+
+  public void status() {
+  }
+
+  public void reservation() {
+  }
+
+  public void cancellation() {
+  }
+
+  public void railwayreservationsystem1() {
+  }
+
+}
