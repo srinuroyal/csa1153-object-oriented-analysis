@@ -1,0 +1,20 @@
+public class computer system {
+
+  public Integer ticket_count;
+
+  private Integer tickets;
+
+    
+  public void book_ticket() {
+  }
+
+  public void payment() {
+  }
+
+  public void check_availability() {
+  }
+
+  public void transaction() {
+  }
+
+}
